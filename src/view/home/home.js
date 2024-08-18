@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from "./../../../component/navbar/navbar"
-import homeimg from "./../../home/home/home.jpg"
-import Footer from "./../../../component/footer/footer"
+import Navbar from "./../../component/navbar/navbar"
+import homeimg from "./../../view/home/home.jpg"
+import Footer from "./../../component/footer/footer"
 import toast ,{ Toaster } from "react-hot-toast";
 
 function home() {

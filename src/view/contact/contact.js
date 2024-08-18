@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from "../../../component/navbar/navbar"
-import contactimg from "./../../contact/contact/contact.jpg"
-import "../../../component/footer/footer"
+import Navbar from "./../../component/navbar/navbar"
+import contactimg from "./../../view/contact/contact.jpg"
+import "./../../component/footer/footer"
 
 function contact() {
   return (
